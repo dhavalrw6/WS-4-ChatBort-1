@@ -9,6 +9,7 @@ const responses = {
     "how are you": "I'm just a bot, but I'm doing great! What about you?",
     "what is your name": "I'm an AI chatbot here to assist you!",
     "bye": "Goodbye! Have a great day!",
+    "kem cho" : "Majama tame bolo???",
     "default": "I'm sorry, I don't understand that. Can you rephrase?"
 };
 
